@@ -1,0 +1,8 @@
+*.PBP
+*.SFO
+*.elf
+*.prx
+*.o
+
+lib.c
+lib.h
